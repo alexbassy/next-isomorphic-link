@@ -24,7 +24,6 @@ const IsomorphicLink = props => {
       <Link href={props.href}>
         {React.cloneElement(props.children, {
           href: props.href,
-          tabIndex: 0,
         })}
       </Link>
     )
