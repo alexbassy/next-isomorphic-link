@@ -2,7 +2,7 @@ import React, { useEffect, useState, useCallback } from 'react'
 import Link from 'next/link'
 
 // This is an Isomorphic link
-// The server-side rendered markup will include an `href` tab
+// The server-side rendered mark-up will include an `href` attribute
 const IsomorphicLink = props => {
   const [hasMounted, setHasMounted] = useState(false)
 
