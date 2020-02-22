@@ -1,6 +1,6 @@
 {
   "name": "next-isomorphic-link",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A <Link/> component that works better without JavaScript and is more accessible",
   "main": "dist/index.js",
   "repository": "https://github.com/alexbassy/next-isomorphic-link",
