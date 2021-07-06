@@ -44,3 +44,8 @@ These are easy to fix:
 - Add the `href` attribute to the child `<a>` in the server-rendered markup (and remove it when mounted)
 - Add a `tabIndex` of `0` to the client-side rendered link to ensure tabbability (if that is a word)
 - Add an event handler for the Enter key
+
+## Changelog
+
+- 0.2.5: Added TypeScript declaration file
+- 0.2.3: Bump peer dependency version
