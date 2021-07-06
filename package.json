@@ -13,7 +13,8 @@
     "bump": "node scripts/bump.js"
   },
   "files": [
-    "dist/*"
+    "dist/*",
+    "types/*"
   ],
   "devDependencies": {
     "@babel/cli": "^7.6.0",
